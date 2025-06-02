@@ -1,3 +1,9 @@
+/*
+Authors:
+Israr Ullah
+Imran Ullah
+Muhammad Usman
+*/
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
