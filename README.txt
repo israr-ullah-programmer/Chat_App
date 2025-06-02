@@ -1,3 +1,9 @@
+Author:
+Israr Ullah
+Imran Ullah
+Muhammad Usman
+
+
 Java Socket Chat Application
 Overview
 This project implements a simple multi-client chat application in Java using TCP sockets. It consists of two main components:
